@@ -92,7 +92,7 @@
     "redux": "^4.2.1",
     "rxjs": "^7.8.0",
     "sass": "^1.70.0",
-    "slate": "^0.101.4",
+    "slate": "^0.118.1",
     "slate-history": "^0.100.0",
     "slate-react": "^0.101.3",
     "smooth-scroll-into-view-if-needed": "^2.0.2",
