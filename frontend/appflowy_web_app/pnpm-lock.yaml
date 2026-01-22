@@ -105,8 +105,8 @@ dependencies:
     specifier: ^2.7.2
     version: 2.7.2
   lodash-es:
-    specifier: ^4.17.21
-    version: 4.17.21
+    specifier: ^4.17.23
+    version: 4.17.23
   nanoid:
     specifier: ^4.0.0
     version: 4.0.2
@@ -4638,6 +4638,7 @@ packages:
 
   /acorn-import-assertions@1.9.0(acorn@8.11.3):
     resolution: {integrity: sha512-cmMwop9x+8KFhxvKrKfPYmN6/pKTYYHBqLa0DfvVZcKMJWNyWLnaqND7dx/qn66R7ewM1UX5XMaDVP5wlVTaVA==}
+    deprecated: package has been renamed to acorn-import-attributes
     peerDependencies:
       acorn: ^8
     dependencies:
@@ -8311,8 +8312,8 @@ packages:
       p-locate: 6.0.0
     dev: true
 
-  /lodash-es@4.17.21:
-    resolution: {integrity: sha512-mKnC+QJ9pWVzv+C4/U3rRsHapFfHvQFoFB92e52xeyGMcX6/OlIl78je1u8vePzYZSkkogMPJ2yjxxsb89cxyw==}
+  /lodash-es@4.17.23:
+    resolution: {integrity: sha512-kVI48u3PZr38HdYz98UmfPnXl2DXrpdctLrFLCd3kOx1xUkOmpFPx7gCWWM5MPkL/fD8zb+Ph0QzjGFs4+hHWg==}
     dev: false
 
   /lodash.clonedeep@4.5.0:
@@ -9452,7 +9453,7 @@ packages:
       globalize: 0.1.1
       invariant: 2.2.4
       lodash: 4.17.21
-      lodash-es: 4.17.21
+      lodash-es: 4.17.23
       luxon: 3.4.4
       memoize-one: 6.0.0
       moment: 2.30.1
@@ -9471,7 +9472,7 @@ packages:
     dependencies:
       '@icons/material': 0.2.4(react@18.2.0)
       lodash: 4.17.21
-      lodash-es: 4.17.21
+      lodash-es: 4.17.23
       material-colors: 1.2.6
       prop-types: 15.8.1
       react: 18.2.0
